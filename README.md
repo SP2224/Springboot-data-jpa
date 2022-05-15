@@ -1,5 +1,5 @@
 Source:- https://www.javatpoint.com/spring-boot-starter-data-jpa
-
+Directly  download the project file from here :- https://static.javatpoint.com/springboot/download/spring-boot-jpa-example.zip
 # Springboot-data-jpa
 
 Step 1: Open spring Initializr https://start.spring.io/.
